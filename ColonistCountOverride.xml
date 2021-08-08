@@ -1,0 +1,28 @@
+<xml>
+    name:agents
+    priority:100
+    <DaemonAgent>
+	Name:Daemon Agent
+        <componentLookup>
+            <Component>
+				type:Starmancer.Player.PlayerLevel.PlayerLevelComponent
+				recordID:80e4c5bb-692c-470c-807a-b3b7c277a3b3
+				allLevelRequirements:100
+				allLevelRequirements:200
+				allLevelRequirements:300
+				allLevelRequirements:400
+				allLevelRequirements:500
+				allLevelRequirements:600
+				allLevelRequirements:700
+				allLevelRequirements:800
+				allLevelRequirements:1000
+				baseColonistCount:20
+				colonistsPerLevel:5
+		</Component>            
+        </componentLookup>
+    </DaemonAgent>
+</xml>
+            
+            
+            
+        
